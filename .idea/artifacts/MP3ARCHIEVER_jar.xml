@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MP3ARCHIEVER:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MP3ARCHIEVER_jar</output-path>
+    <root id="archive" name="MP3ARCHIEVER.jar">
+      <element id="module-output" name="MP3ARCHIVER" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jetty-servlet-8.2.0.v20160908.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mp3agic-0.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jetty-servlet-9.4.15.v20190215.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jetty-security-9.4.15.v20190215.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jetty-server-9.4.15.v20190215.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.servlet-api-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jetty-http-9.4.15.v20190215.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jetty-util-9.4.15.v20190215.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jetty-io-9.4.15.v20190215.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/h2-1.4.198.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

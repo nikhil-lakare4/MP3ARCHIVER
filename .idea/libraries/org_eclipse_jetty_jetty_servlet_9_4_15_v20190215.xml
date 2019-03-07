@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="org.eclipse.jetty:jetty-servlet:9.4.15.v20190215" type="repository">
+    <properties maven-id="org.eclipse.jetty:jetty-servlet:9.4.15.v20190215" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jetty-servlet-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-security-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-server-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-http-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-util-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-io-9.4.15.v20190215.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/jetty-servlet-9.4.15.v20190215-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-security-9.4.15.v20190215-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-server-9.4.15.v20190215-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet-api-3.1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-http-9.4.15.v20190215-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-util-9.4.15.v20190215-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-io-9.4.15.v20190215-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jetty-servlet-9.4.15.v20190215-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-security-9.4.15.v20190215-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-server-9.4.15.v20190215-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet-api-3.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-http-9.4.15.v20190215-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-util-9.4.15.v20190215-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-io-9.4.15.v20190215-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
